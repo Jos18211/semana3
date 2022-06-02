@@ -1,0 +1,34 @@
+nav {
+    display: flex;
+    height: auto;
+    margin-bottom: 10px;
+    background-color:#5b5b34;
+
+}
+#conteiner .principal{ 
+    float: left;
+    color: white;
+    border-right: 1px solid #fff;
+    text-decoration: none;
+    text-align: center;
+    padding: 10 25 10 25;
+}
+
+#conteiner a:hover{ 
+
+    color: #fff;
+    font-size: larger;
+    font-weight: bold;
+    background: #FF7500;
+
+    
+}
+
+
+#rincipal .last {
+    
+}
+
+
+
+
